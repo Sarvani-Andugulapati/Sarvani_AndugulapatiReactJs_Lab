@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "date": "2023-02-26",
+      "expenseDescription": "purchasd a fridge",
+      "payeeName": "Rajesh",
+      "price": 1245
+    },
+    {
+      "id": 2,
+      "date": "2023-02-20",
+      "expenseDescription": "paid house rent",
+      "payeeName": "Ramesh",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "date": "2023-02-27",
+      "expenseDescription": "paid electricity bill",
+      "payeeName": "Rahul",
+      "price": 1200
+    },
+    {
+      "id": 4,
+      "date": "2023-02-25",
+      "expenseDescription": "paid water bill",
+      "payeeName": "Rajesh",
+      "price": 250
+    },
+    {
+      "id": 5,
+      "date": "2023-02-10",
+      "expenseDescription": "vacation to manali",
+      "payeeName": "Rahul",
+      "price": 25000
+    },
+    {
+      "id": 6,
+      "date": "2023-02-10",
+      "expenseDescription": "purchasd a camera",
+      "payeeName": "Ramesh",
+      "price": 15000
+    },
+    {
+      "date": "2023-03-14T00:00:00.000Z",
+      "expenseDescription": "Purchased a car",
+      "payeeName": "Rajesh",
+      "price": 1250000,
+      "id": 7
+    },
+    {
+      "date": "2023-03-23T00:00:00.000Z",
+      "expenseDescription": "Trip to Europe",
+      "payeeName": "Ramesh",
+      "price": 50000,
+      "id": 8
+    },
+    {
+      "date": "2023-03-21T00:00:00.000Z",
+      "expenseDescription": "Paid house rent",
+      "payeeName": "Rahul",
+      "price": 25000,
+      "id": 9
+    },
+    {
+      "date": "2023-03-24T00:00:00.000Z",
+      "expenseDescription": "test",
+      "payeeName": "Ramesh",
+      "price": 10000,
+      "id": 10
+    }
+  ]
+}
